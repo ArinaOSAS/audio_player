@@ -1,0 +1,49 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <LinearGradientBrush x:Key="ButtonGradient" StartPoint="0,0" EndPoint="1,1">
+        <GradientStop Color="#D3D3D3" Offset="8"/>
+        <GradientStop Color="Violet" Offset="0.8"/>
+        <GradientStop Color="#D3D3D3" Offset="1"/>
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="ListViewGradient" StartPoint="0,0" EndPoint="1,1">
+        <GradientStop Color="#A9A9A9" Offset="0.545"/>
+        <GradientStop Color="#FFFFC7FF" Offset="0.09"/>
+        <GradientStop Color="#A9A9A9" Offset="0.645"/>
+        <GradientStop Color="#FFFDA8FD" Offset="1"/>
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="GridGradient" StartPoint="0,0" EndPoint="1,1">
+        <GradientStop Color="#FFEFE8E8" Offset="0.058"/>
+        <GradientStop Color="#FF727272" Offset="0.283"/>
+        <GradientStop Color="#FFEFE8E8" Offset="0.915"/>
+        <GradientStop Color="#FF838181" Offset="0.723"/>
+    </LinearGradientBrush>
+    <Style TargetType="Button" >
+        <Setter Property="Background" Value="{StaticResource ButtonGradient}"/>
+        <Setter Property="FontSize" Value="20"/>
+    </Style>
+    <Style TargetType="MenuItem">
+        <Setter Property="Background" Value="{StaticResource ButtonGradient}"/>
+        <Setter Property="FontSize" Value="20"/>
+    </Style>
+    <Style TargetType="Grid">
+        <Setter Property="Background" Value="{StaticResource GridGradient}"/>
+    </Style>
+    <Style TargetType="Label">
+        <Setter Property="Foreground" Value="Black"/>
+        <Setter Property="Background" Value="{x:Null}"/>
+    </Style>
+    <Style TargetType="TextBlock">
+        <Setter Property="Background" Value="{x:Null}"/>
+    </Style>
+    <Style TargetType="TextBox">
+        <Setter Property="Background" Value="{x:Null}"/>
+    </Style>
+    <Style TargetType="Grid" x:Key="Grid_panel">
+        <Setter Property="Background" Value="Violet"/>
+    </Style>
+    <Style TargetType="ListView">
+        <Setter Property="Background" Value="{StaticResource ListViewGradient}"/>
+    </Style>
+
+</ResourceDictionary>

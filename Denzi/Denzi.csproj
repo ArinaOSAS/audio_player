@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\Pause.png" />
+    <None Remove="Image\Play.png" />
+    <None Remove="Image\Громкий звук.png" />
+    <None Remove="Image\Крестик.png" />
+    <None Remove="Image\Низкая громкость .png" />
+    <None Remove="Image\Перемотка.png" />
+    <None Remove="Image\Сортировка.png" />
+    <None Remove="Image\Цвет.png.png" />
+    <None Remove="Image\Черта.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\Pause.png" />
+    <Resource Include="Image\Play.png" />
+    <Resource Include="Image\Громкий звук.png" />
+    <Resource Include="Image\Крестик.png" />
+    <Resource Include="Image\Низкая громкость .png" />
+    <Resource Include="Image\Перемотка.png" />
+    <Resource Include="Image\Сортировка.png" />
+    <Resource Include="Image\Цвет.png.png" />
+    <Resource Include="Image\Черта.png" />
+  </ItemGroup>
+
+</Project>

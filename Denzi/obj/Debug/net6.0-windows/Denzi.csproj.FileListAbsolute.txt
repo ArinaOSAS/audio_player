@@ -1,0 +1,104 @@
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.exe
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.deps.json
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.runtimeconfig.json
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.dll
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.pdb
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.cache
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.lref
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.baml
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.g.resources
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfo.cs
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.dll
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\refint\Denzi.dll
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.pdb
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.genruntimeconfig.cache
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\ref\Denzi.dll
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Write.baml
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\user\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.exe
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.deps.json
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.runtimeconfig.json
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.dll
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.pdb
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.AssemblyReference.cache
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Write.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.cache
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.lref
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.g.resources
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfoInputs.cache
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfo.cs
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.CoreCompileInputs.cache
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.dll
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\refint\Denzi.dll
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.pdb
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.genruntimeconfig.cache
+C:\Users\arina\Desktop\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\ref\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.exe
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Write.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\refint\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.pdb
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\ref\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.exe
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.deps.json
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.runtimeconfig.json
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\bin\Debug\net6.0-windows\Denzi.pdb
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.AssemblyReference.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Black.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\English.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Russian.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Resource\Write.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi_MarkupCompile.lref
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\App.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.g.resources
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfoInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.AssemblyInfo.cs
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.csproj.CoreCompileInputs.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\refint\Denzi.dll
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.pdb
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\Denzi.genruntimeconfig.cache
+C:\Users\arina\OneDrive\Рабочий стол\3 курс\ТИС\Курсовая\Denzi\Denzi\obj\Debug\net6.0-windows\ref\Denzi.dll
